@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: it.pronetics.madstore.hatom.netbeans/1
+OpenIDE-Module-Layer: it/pronetics/madstore/hatom/netbeans/layer.xml
+OpenIDE-Module-Localizing-Bundle: it/pronetics/madstore/hatom/netbeans/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0.0
+
