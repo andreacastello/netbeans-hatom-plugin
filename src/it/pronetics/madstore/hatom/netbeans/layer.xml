@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <!-- For validation tasks  -->
+    <folder name="Actions">
+        <folder name="BpelNodes">
+            <file name="it-pronetics-madstore-hatom-netbeans-validator-action-ValidatorAction.instance"/>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="Build">
+            <file name="it-pronetics-madstore-hatom-netbeans-validator-action-ValidatorAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/BpelNodes/it-pronetics-madstore-hatom-netbeans-validator-action-ValidatorAction.instance"/>
+                <attr name="position" intvalue="500"/>
+            </file>
+        </folder>
+    </folder>
+    <!-- For code completion and highlight tasks  -->
+    <folder name="Editors">  
+    <folder name="text">
+        <folder name="html">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="it.pronetics.madstore.hatom.netbeans.Bundle"/>
+                <folder name="NetBeans">
+                    <folder name="Defaults">
+                        <file name="coloring.xml" url="syntax/resources/NetBeans-Hatom-fontsColors.xml">
+                            <attr name="SystemFileSystem.localizingBundle" stringvalue="it.pronetics.madstore.hatom.netbeans.Bundle"/>
+                        </file>
+                    </folder>
+                </folder>
+                <folder name="CityLights">
+                    <folder name="Defaults">
+                        <file name="coloring.xml" url="syntax/resources/CityLights-Properties-fontsColors.xml">
+                            <attr name="SystemFileSystem.localizingBundle" stringvalue="it.pronetics.madstore.hatom.netbeans.Bundle"/>
+                        </file>
+                    </folder>
+                </folder>
+                <file name="language.instance">
+                    <attr name="instanceCreate" methodvalue="it.pronetics.madstore.hatom.netbeans.syntax.HatomTokenId.language"/>
+                    <attr name="instanceOf" stringvalue="org.netbeans.api.lexer.Language"/>
+                </file>
+                <file name="NbEditorKit.instance">
+                    
+                    <attr name="instanceCreate" methodvalue="it.pronetics.madstore.hatom.netbeans.syntax.HatomEditorKit.create"/>
+                    <attr name="instanceClass" stringvalue="it.pronetics.madstore.hatom.netbeans.syntax.HatomEditorKit"/>
+                    <!--
+                    <attr name="instanceCreate" methodvalue="org.netbeans.modules.lexer.editorbridge.LexerEditorKit.create"/>
+                    <attr name="instanceClass" stringvalue="org.netbeans.modules.lexer.editorbridge.LexerEditorKit"/>
+                    -->
+                </file>
+            <folder name="CompletionProviders">
+                <file name="it-pronetics-madstore-hatom-netbeans-completion-HatomCompletionProvider.instance"/>
+            </folder>
+        </folder>
+    </folder>
+    </folder>
+    <folder name="OptionsDialog">
+        <folder name="PreviewExamples">
+            <folder name="text">
+                <file name="html" url="syntax/resources/HatomExample"/>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>
