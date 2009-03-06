@@ -68,7 +68,7 @@ private OutputWriter openOutput(String documentName) {
 
     //...
 }
-
+}}}
 The true value in the getIO method tells the Netbeans infrastructure to create a new InputOutput instance for each invocation.
 
 The select() method makes the newly created output panel visibile.
