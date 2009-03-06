@@ -1,4 +1,5 @@
 #summary This page summarizes the validation requisites extracted from hAtom microformat specification.
+#labels Phase-Design,Featured
 
 = Introduction =
 The hAtom microformat version used for the requisites is [http://microformats.org/wiki/hatom#Schema draft 0.1], with the following modifications:
