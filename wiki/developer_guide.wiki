@@ -1,4 +1,4 @@
-#summary Short description of the plugin's modules for plugin contributors.
+#summary Short description of the plugin's modules aimed to help contributors.
 #labels Phase-Design
 
 = Before starting =
