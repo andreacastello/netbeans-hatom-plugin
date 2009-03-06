@@ -5,12 +5,10 @@
 Developers who would like to modify or extend the hAtom Netbeans plugin may find useful the pages dedicated to the three main modules of the plugin.
 
 === Code completion ===
-[http://code.google.com/p/netbeans-hatom-plugin/wiki/hatom_code_completion http://code.google.com/p/netbeans-hatom-plugin/wiki/hatom_code_completion]
+[http://code.google.com/p/netbeans-hatom-plugin/wiki/hatom_code_completion Code completion]
 
 === Syntax highlight ===
-[http://code.google.com/p/netbeans-hatom-plugin/wiki/hAtom_syntax_highlight
-http://code.google.com/p/netbeans-hatom-plugin/wiki/hAtom_syntax_highlight]
+[http://code.google.com/p/netbeans-hatom-plugin/wiki/hAtom_syntax_highlight Syntax highlight]
 
 === Hatom validation ===
-[http://code.google.com/p/netbeans-hatom-plugin/wiki/hatom_microformat_validation
-http://code.google.com/p/netbeans-hatom-plugin/wiki/hatom_microformat_validation]
+[http://code.google.com/p/netbeans-hatom-plugin/wiki/hatom_microformat_validation hAtom microformat validation]
